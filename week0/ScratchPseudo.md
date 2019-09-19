@@ -1,12 +1,12 @@
 # Fish vs Shark Game
 
 **This is bold**
-**This is italicized**
+*This is italicized*
 ~~strikethrough~~
 
 numbered list 
-item one 
-item two 
+ 1. item one 
+ 2. item two 
 
 bulletted list
 * item one 
